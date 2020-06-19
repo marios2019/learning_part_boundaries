@@ -43,4 +43,26 @@ to fine-grained semantic shape segmentation, where we also show improvements in 
     <small>Marked boundaries on PartNet point clouds for training.</small>
 </p>
 
+<h1 align = "center">Results</h1>
+
+<h3> Geometric part boundary detection </h3>
+<div align="center">
+    <img src="images/geometric_boundaries.png" width="100%" height ="60%" alt="geometric_boundaries.png" />
+</div>
+<p align = 'center'>
+    <small>Boundaries detected by our method PB-DGCNN on some example ABC point clouds. The first column
+    on the left shows the ground truth boundaries. The second column shows boundary probabilities produced 
+    by PB-DGCNN, and the third column shows boundaries predicted by PB-DGCNN after thresholding.</small>
+</p>
+
+<h3>Semantic shape segmentation</h3>
+<div align="center">
+    <img src="images/semantic_segmentation.png" width="100%" height ="50%" alt="semantic_segmentation.png" />
+</div>
+<p align = 'center'>
+    <small>Visual comparison of semantic segmentation for example PartNet point clouds, using DGCNN alone (unary), a graph-cut 
+    formulation with normal angles in the pairwise term, and a graph-cut formulation with a combination of normal angles and
+    boundary probabilities produced by PB-DGCNN in the pairwise term.</small>
+</p>
+
 __Datasets will be released soon__ 
