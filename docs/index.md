@@ -43,11 +43,13 @@ to fine-grained semantic shape segmentation, where we also show improvements in 
     <small>Marked boundaries on PartNet point clouds for training.</small>
 </p>
 
+__Datasets will be released soon__
+
 <h1 align = "center">Results</h1>
 
 <h3> Geometric part boundary detection </h3>
 <div align="center">
-    <img src="images/geometric_boundaries.png" width="100%" height ="60%" alt="geometric_boundaries.png" />
+    <img src="images/geometric_boundaries.png" width="100%" height ="40%" alt="geometric_boundaries.png" />
 </div>
 <p align = 'center'>
     <small>Boundaries detected by our method PB-DGCNN on some example ABC point clouds. The first column
@@ -65,4 +67,4 @@ to fine-grained semantic shape segmentation, where we also show improvements in 
     boundary probabilities produced by PB-DGCNN in the pairwise term.</small>
 </p>
 
-__Datasets will be released soon__ 
+ 
