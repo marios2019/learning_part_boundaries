@@ -6,6 +6,10 @@ This repository contains code accompaning the paper: Learning Part Boundaries fr
 ### Contents
 
 - [Training](boundary_detection/README.md)
+- [Evaluation](evaluation/README.md)
+- [Semantic Segmentation](semantic_segmentation/README.md)
+- [Download Datasets](datasets/README.md)
+- [Download Trained models](trained_models/README.md)
 
 ### Dependency
 - Python 2.7
