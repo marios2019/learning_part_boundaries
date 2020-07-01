@@ -15,5 +15,8 @@ This repository contains code accompaning the paper: Learning Part Boundaries fr
 - Python 2.7
 - Tensorflow 1.2
 
+### Acknowledgement
+This implementation is heavily inspired by [DGCNN](https://github.com/WangYueFt/dgcnn).
+
 Please contact us (Marios Loizou mloizo11@cs.ucy.ac.cy) if you have any problems about
 our implementation.
