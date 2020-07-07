@@ -1,7 +1,7 @@
 # Learning Part Boundaries from 3D Point Clouds
 
 This repository contains code accompaning the paper: Learning Part Boundaries from
-3D Point Clouds, SGP 2020. ([Paper])(http://www.cs.ucy.ac.cy/~mloizo11/papers/learning_part_boundaries.pdf)
+3D Point Clouds, SGP 2020. [Paper](http://www.cs.ucy.ac.cy/~mloizo11/papers/learning_part_boundaries.pdf)
 
 ### Contents
 
